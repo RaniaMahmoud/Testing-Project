@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ITI intake\\ITI\\Unit Testing\\Project Using MVC\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj": {}
+    "E:\\ITI intake\\ITI\\Unit Testing\\ProjectTesting\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj": {}
   },
   "projects": {
-    "E:\\ITI intake\\ITI\\Unit Testing\\Project Using MVC\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj": {
+    "E:\\ITI intake\\ITI\\Unit Testing\\ProjectTesting\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ITI intake\\ITI\\Unit Testing\\Project Using MVC\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj",
+        "projectUniqueName": "E:\\ITI intake\\ITI\\Unit Testing\\ProjectTesting\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj",
         "projectName": "Pizza_Hut.Test",
-        "projectPath": "E:\\ITI intake\\ITI\\Unit Testing\\Project Using MVC\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj",
+        "projectPath": "E:\\ITI intake\\ITI\\Unit Testing\\ProjectTesting\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj",
         "packagesPath": "C:\\Users\\Rania17323092\\.nuget\\packages\\",
-        "outputPath": "E:\\ITI intake\\ITI\\Unit Testing\\Project Using MVC\\Pizza_Hut.Test\\obj\\",
+        "outputPath": "E:\\ITI intake\\ITI\\Unit Testing\\ProjectTesting\\Pizza_Hut.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rania17323092\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\ITI intake\\ITI\\Unit Testing\\Project Using MVC\\Project\\Pizza_Hut.csproj": {
-                "projectPath": "E:\\ITI intake\\ITI\\Unit Testing\\Project Using MVC\\Project\\Pizza_Hut.csproj"
+              "E:\\ITI intake\\ITI\\Unit Testing\\ProjectTesting\\Project\\Pizza_Hut.csproj": {
+                "projectPath": "E:\\ITI intake\\ITI\\Unit Testing\\ProjectTesting\\Project\\Pizza_Hut.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "E:\\ITI intake\\ITI\\Unit Testing\\Project Using MVC\\Project\\Pizza_Hut.csproj": {
+    "E:\\ITI intake\\ITI\\Unit Testing\\ProjectTesting\\Project\\Pizza_Hut.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ITI intake\\ITI\\Unit Testing\\Project Using MVC\\Project\\Pizza_Hut.csproj",
+        "projectUniqueName": "E:\\ITI intake\\ITI\\Unit Testing\\ProjectTesting\\Project\\Pizza_Hut.csproj",
         "projectName": "Pizza_Hut",
-        "projectPath": "E:\\ITI intake\\ITI\\Unit Testing\\Project Using MVC\\Project\\Pizza_Hut.csproj",
+        "projectPath": "E:\\ITI intake\\ITI\\Unit Testing\\ProjectTesting\\Project\\Pizza_Hut.csproj",
         "packagesPath": "C:\\Users\\Rania17323092\\.nuget\\packages\\",
-        "outputPath": "E:\\ITI intake\\ITI\\Unit Testing\\Project Using MVC\\Project\\obj\\",
+        "outputPath": "E:\\ITI intake\\ITI\\Unit Testing\\ProjectTesting\\Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rania17323092\\AppData\\Roaming\\NuGet\\NuGet.Config",
