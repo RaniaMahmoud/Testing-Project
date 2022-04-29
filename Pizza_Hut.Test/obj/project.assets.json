@@ -8755,19 +8755,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rania17323092\\.nuget\\packages\\": {}
+    "C:\\Users\\ALL IN ONE\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ITI intake\\ITI\\Unit Testing\\ProjectTesting\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj",
+      "projectUniqueName": "D:\\ITI study\\Unit testing\\Project MVC\\Testing-Project\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj",
       "projectName": "Pizza_Hut.Test",
-      "projectPath": "E:\\ITI intake\\ITI\\Unit Testing\\ProjectTesting\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj",
-      "packagesPath": "C:\\Users\\Rania17323092\\.nuget\\packages\\",
-      "outputPath": "E:\\ITI intake\\ITI\\Unit Testing\\ProjectTesting\\Pizza_Hut.Test\\obj\\",
+      "projectPath": "D:\\ITI study\\Unit testing\\Project MVC\\Testing-Project\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj",
+      "packagesPath": "C:\\Users\\ALL IN ONE\\.nuget\\packages\\",
+      "outputPath": "D:\\ITI study\\Unit testing\\Project MVC\\Testing-Project\\Pizza_Hut.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Rania17323092\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ALL IN ONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8781,8 +8781,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\ITI intake\\ITI\\Unit Testing\\ProjectTesting\\Project\\Pizza_Hut.csproj": {
-              "projectPath": "E:\\ITI intake\\ITI\\Unit Testing\\ProjectTesting\\Project\\Pizza_Hut.csproj"
+            "D:\\ITI study\\Unit testing\\Project MVC\\Testing-Project\\Project\\Pizza_Hut.csproj": {
+              "projectPath": "D:\\ITI study\\Unit testing\\Project MVC\\Testing-Project\\Project\\Pizza_Hut.csproj"
             }
           }
         }
@@ -8829,7 +8829,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
