@@ -13,6 +13,7 @@ namespace Pizza_Hut.Repository
         {
             this.context = context;
         }
+
         public int Delete(int id)
         {
             try

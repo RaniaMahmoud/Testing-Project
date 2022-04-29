@@ -20,8 +20,7 @@ namespace Pizza_Hut.Repository
 
         public List<Cart> GetAll()
         {
-            var query= context.carts.ToList();
-            return query;
+            return context.carts.ToList();
         }
 
         public Cart GetById(int id)
