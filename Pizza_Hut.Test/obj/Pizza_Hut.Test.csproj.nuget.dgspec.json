@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ITI study\\Unit testing\\Project MVC\\Testing-Project\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj": {}
+    "E:\\Projects\\ProjectUnitTest\\FinleTest\\Testing-Project\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj": {}
   },
   "projects": {
-    "D:\\ITI study\\Unit testing\\Project MVC\\Testing-Project\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj": {
+    "E:\\Projects\\ProjectUnitTest\\FinleTest\\Testing-Project\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI study\\Unit testing\\Project MVC\\Testing-Project\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj",
+        "projectUniqueName": "E:\\Projects\\ProjectUnitTest\\FinleTest\\Testing-Project\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj",
         "projectName": "Pizza_Hut.Test",
-        "projectPath": "D:\\ITI study\\Unit testing\\Project MVC\\Testing-Project\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj",
-        "packagesPath": "C:\\Users\\ALL IN ONE\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI study\\Unit testing\\Project MVC\\Testing-Project\\Pizza_Hut.Test\\obj\\",
+        "projectPath": "E:\\Projects\\ProjectUnitTest\\FinleTest\\Testing-Project\\Pizza_Hut.Test\\Pizza_Hut.Test.csproj",
+        "packagesPath": "C:\\Users\\Sleem Mostafa\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\ProjectUnitTest\\FinleTest\\Testing-Project\\Pizza_Hut.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ALL IN ONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sleem Mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\ITI study\\Unit testing\\Project MVC\\Testing-Project\\Project\\Pizza_Hut.csproj": {
-                "projectPath": "D:\\ITI study\\Unit testing\\Project MVC\\Testing-Project\\Project\\Pizza_Hut.csproj"
+              "E:\\Projects\\ProjectUnitTest\\FinleTest\\Testing-Project\\Project\\Pizza_Hut.csproj": {
+                "projectPath": "E:\\Projects\\ProjectUnitTest\\FinleTest\\Testing-Project\\Project\\Pizza_Hut.csproj"
               }
             }
           }
@@ -80,17 +80,17 @@
         }
       }
     },
-    "D:\\ITI study\\Unit testing\\Project MVC\\Testing-Project\\Project\\Pizza_Hut.csproj": {
+    "E:\\Projects\\ProjectUnitTest\\FinleTest\\Testing-Project\\Project\\Pizza_Hut.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI study\\Unit testing\\Project MVC\\Testing-Project\\Project\\Pizza_Hut.csproj",
+        "projectUniqueName": "E:\\Projects\\ProjectUnitTest\\FinleTest\\Testing-Project\\Project\\Pizza_Hut.csproj",
         "projectName": "Pizza_Hut",
-        "projectPath": "D:\\ITI study\\Unit testing\\Project MVC\\Testing-Project\\Project\\Pizza_Hut.csproj",
-        "packagesPath": "C:\\Users\\ALL IN ONE\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI study\\Unit testing\\Project MVC\\Testing-Project\\Project\\obj\\",
+        "projectPath": "E:\\Projects\\ProjectUnitTest\\FinleTest\\Testing-Project\\Project\\Pizza_Hut.csproj",
+        "packagesPath": "C:\\Users\\Sleem Mostafa\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\ProjectUnitTest\\FinleTest\\Testing-Project\\Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ALL IN ONE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sleem Mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
