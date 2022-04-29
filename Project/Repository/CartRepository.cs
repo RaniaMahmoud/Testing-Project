@@ -12,11 +12,16 @@ namespace Pizza_Hut.Repository
         {
             context= _context;
         }
+        public CartRepository()
+        {
+
+        }
 
 
         public List<Cart> GetAll()
         {
-            return context.carts.ToList();
+            var query= context.carts.ToList();
+            return query;
         }
 
         public Cart GetById(int id)
